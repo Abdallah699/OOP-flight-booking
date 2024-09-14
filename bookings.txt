@@ -1,0 +1,1 @@
+Type: Economy, Name: Mohamad Zahedi, SSN: 200204174494, Seat number: 164, Number of baggage: 23, Flight Number: 13, Destination: Stockholm, Booking Number: 132763

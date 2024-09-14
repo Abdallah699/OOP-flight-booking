@@ -1,0 +1,10 @@
+13 Stockholm
+34 Berlin
+12 London
+565 Cairo
+23 Barcelona
+76 Venice
+789 Amsterdam
+546 Edinburgh
+134 Malmo
+452	Ibiza
